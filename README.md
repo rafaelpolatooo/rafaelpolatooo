@@ -3,7 +3,7 @@
 <h3 align="center">Desenvolvedor Full-Stack | Automações com Python | IA & APIs (Claude, OpenAI e afins)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ED573&center=true&vCenter=true&width=600&lines=Construindo+aplica%C3%A7%C3%B5es+web;Automatizando+processos+com+Python;Integrando+IA+em+solu%C3%A7%C3%B5es+reais;Sempre+aprendendo+algo+novo+🚀" alt="Typing SVG" />
+  Construindo aplicações web · Automatizando processos com Python · Integrando IA em soluções reais 🚀
 </p>
 
 ---
@@ -40,13 +40,10 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rafaelpolatooo&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpolatooo&layout=compact&theme=dark&hide_border=true" />
+  <img src="./github-metrics.svg" alt="Métricas do GitHub" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rafaelpolatooo&theme=dark&hide_border=true" />
-</p>
+> As estatísticas acima são geradas automaticamente por uma GitHub Action e atualizadas todo dia — não dependem de serviços externos, então não ficam fora do ar.
 
 ---
 
