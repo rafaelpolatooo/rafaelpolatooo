@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelpolatoo&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelpolatooo&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -53,8 +53,8 @@
 ### 📌 Projetos em destaque
 
 <p align="center">
-  <a href="https://github.com/rafaelpolatoo/lancamentos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelpolatoo&repo=lancamentos&theme=dark&hide_border=true" />
+  <a href="https://github.com/rafaelpolatooo/lancamentos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelpolatooo&repo=lancamentos&theme=dark&hide_border=true" />
   </a>
 </p>
 
@@ -77,5 +77,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafaelpolatoo&color=2ED573&style=for-the-badge" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=rafaelpolatooo&color=2ED573&style=for-the-badge" alt="visitor badge"/>
 </p>
